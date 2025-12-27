@@ -1,5 +1,5 @@
 # Ex08 Event Registration Web Application
-## Date:
+## Date:27/12/2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration using Figma UI tool.
@@ -121,9 +121,6 @@ Select the specific frame while generating code using Anima plugin.
 ```
 
 ## OUTPUT:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-
+![alt text](image-3.png)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration using Figma UI tool is completed successfully.
